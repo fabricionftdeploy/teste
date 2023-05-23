@@ -1,36 +1,35 @@
-# Réplica Mines :bomb:
+# SPGE - Sistema Padrão Gerenciador de Escolas 📚
 <img src="assets/inicial.png" width="100%">
 
 <h2>Sobre o projeto 🔎</h2>
-O projeto consiste em um pequeno e demonstrativo site de apostas que possui uma “réplica” do famoso jogo de cassino Mines, muito comum em sites como Bet365 ou Betano. Diferente dos meus projetos anteriores, este já é bem mais elaborado, possuindo mais camadas no back-end e conceitos de segurança e performance, como: DTO,s, criptografia, limitação de rotas de usuários e admin’s, autenticação através de tokens JWT, tratamento de erros, entre outros.
-<br><br>
-Obs: a intenção do mesmo não é ser 100% igual ao jogo original, mas sim ter uma jogabilidade e mecânica parecida.
+O SPGE é um sistema Web que possui o objetivo de facilitar a vida dos estudantes e funcionários das escolas. Com seu fácil manuseio e responsividade, o SPGE torna mais simples o acesso e a manipulação de informações escolares.
 <br><br>
 
 <h2>Tecnologias utilizadas 💻</h2>
-* Java (Spring Boot/Spring Security/Spring Data)<br>
+* Java (Spring Boot/Spring Data)<br>
 * Javascript + JQuery<br>
 * HTML + CSS<br>
 * Banco de dados MySQL
 <br><br>
 
-<h2>Como jogar o Mines</h2>
-* Crie e acesse uma conta;<br>
-* Deposite algum valor, ou utilize seus 100 reais iniciais (toda nova conta inicia com 100 reais);<br>
-* Vá na tela inicial e selecione para apostar, a aposta miníma é 1 real, e a máxima o seu saldo. A dinâmica do jogo funciona da seguinte forma: primeiramente a pessoa escolhe uma certa quantidade de bombas (obs: quanto mais bombas, maior é o lucro e a chance de errar), e depois precisa escolher os quadrados onde elas não aparecem. A cada acerto o valor atual é multiplicado por um percentual relativo à quantidade de bombas da rodada. Ao errar o jogador perde o valor apostado.<br>
-<br>
-ATENÇÂO: Todo os valores apostados/depositados/sacados neste site são meramente representativos.
+<h2>Recursos dos alunos 🧑‍🎓</h2>
+* Visualização e emissão de pdf das notas;<br>
+* Vizualização dos dados pessoais/escolares;<br>
+* Vizualização dos dias e conteúdos de futuras provas;<br>
+* Vizualização dos produtos vendidos na escola;<br>
+* Vizualização dos recados emitidos pela escola;<br>
+* Vizualização de conteúdos e links adcionaris (complementares âs aulas);
 <br><br>
 
-<h2>Recursos so site 🎯</h2>
-* Criação de contas, com criptografia de senhas;<br>
-* Login de contas;<br>
-* Depósitos e saques de valores ficctícios;<br>
-* Jogo Mines;<br><br>
-<img src="assets/mines.png" width="600px">
-* Histórico de apostas.<br><br>
-<img src="assets/historico.png" width="600px">
-<br>
+<h2>Recursos dos funcionários/professores 👩‍🏫:</h2>
+* Inserirção, edição e exclusão de todas as informações citadas no tópico anterior, além claro tambpém, da inserção dos próprios alunos no sistema.
+<br><br>
+
+<h2>Política de uso da plataforma 👩‍🏫:</h2>
+Cada escola poderia inseri-lá da forma desejada, porém eu recomendaria que todas fizessem de tal maneira: criassem os perfis de todos os alunos com suas respctivas salas, seguindo o
+padrão de o nome de usuario ser sempre o primeiro nome do aluno + "." + ultimo nome do aluno. As senhas de inicio deveriam ser todas iguais, exemplo: NomeDaEscola2023. Os alunos
+às editariam assim que fizessem seu priemiro acesso.
+<br><br>
 
 <h2>Passo a passo para rodar em seu PC</h2>
 * Possua uma JDK 17 ou superior instalada em seu PC;<br>
@@ -42,7 +41,7 @@ host, nome, porta, usuario e senha do banco de dados;<br>
 <br><br>
 
 <h2>Link video 📺</h2>
-https://youtu.be/xGM5xiRV5Zs
+https://youtu.be/6pFGh1nESVI
 <br><br>
 
 <h2>Link site :zap:</h2>
