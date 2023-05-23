@@ -1,4 +1,5 @@
 # Réplica Mines :bomb:
+<img src="assets/inicial.png" width="100%">
 
 <h2>Sobre o projeto 🔎</h2>
 O projeto consiste em um pequeno e demonstrativo site de apostas que possui uma “réplica” do famoso jogo de cassino Mines, muito comum em sites como Bet365 ou Betano. Diferente dos meus projetos anteriores, este já é bem mais elaborado, possuindo mais camadas no back-end e conceitos de segurança e performance, como: DTO,s, criptografia, limitação de rotas de usuários e admin’s, autenticação através de tokens JWT, tratamento de erros, entre outros.
