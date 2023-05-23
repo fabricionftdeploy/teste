@@ -21,11 +21,12 @@ Obs: a intenção do mesmo não é ser 100% igual ao jogo original, mas sim ter 
 ATENÇÂO: Todo os valores apostados/depositados/sacados neste site são meramente representativos. Caso você que está lendo algum dia vá apostar em um site de verdade, tenha consciência.
 <br><br>
 
-<h2>Recursos so site 📎:</h2>
+<h2>Recursos so site 🎯</h2>
 * Criação de contas, com criptografia de senhas;<br>
 * Login de contas;<br>
 * Depósitos e saques de valores ficctícios;<br>
 * Jogo Mines;<br>
+<img src="mines.png" width="500px">
 * Histórico de apostas.
 <br><br>
 
